@@ -4,7 +4,7 @@
 
 I'm a 19 year old rising college freshman 👨‍🎓  who likes programming 💻
 
-I'm also the cofounder of 👗 WardrobeAI.app[https://wardrobeai.app] & note 📝 UniversalNotes.org[https://universalnotes.org]
+I'm also the cofounder of 👗 WardrobeAI.app(https://wardrobeai.app) & note 📝 UniversalNotes.org(https://universalnotes.org)
 
 Learn more about my projects below.
 
