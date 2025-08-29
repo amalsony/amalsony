@@ -2,13 +2,13 @@
 
 **I'm Amal Palackal**
 
-I'm a 19 year old rising college freshman 👨‍🎓  who likes programming 💻
+I'm a sophomore at Penn State 👨‍🎓  who likes programming 💻
 
 I'm also the cofounder of 👗 [WardrobeAI.app](https://wardrobeai.app) & 📝 [UniversalNotes.org](https://universalnotes.org)
 
 Learn more about my projects below.
 
-Feel free to reach out on Instagram if you'd like to talk to me!
+Feel free to reach out on [Instagram](https://instagram.com/amalsony5) or [X](https://x.com/amalsony_) if you'd like to talk to me!
 
 <!--
 **amalsony/amalsony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
