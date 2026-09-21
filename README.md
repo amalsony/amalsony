@@ -2,9 +2,9 @@
 
 **I'm Amal Palackal**
 
-I'm a sophomore at Penn State 👨‍🎓  who likes programming 💻
+I'm a junior at Penn State 👨‍🎓  and a programmer 💻
 
-I'm also the cofounder of 👗 [WardrobeAI.app](https://wardrobeai.app) & 📝 [UniversalNotes.org](https://universalnotes.org)
+Check out 👗 [WardrobeAI.app](https://wardrobeai.app) & 📝 [UniversalNotes.org](https://universalnotes.org)
 
 Learn more about my projects below.
 
