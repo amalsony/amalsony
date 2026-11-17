@@ -1,6 +1,6 @@
 # Hey, I'm Amal 👋
 
-Computer Science junior at **Penn State**, building web and mobile apps used by over 4000 people and exploring how to make LLMs more useful as a undergraduate researcher at the Penn State NLP Lab.
+Computer Science junior at **Penn State** building web and mobile apps used by over 4000 people and exploring how to make LLMs more useful as a undergraduate researcher at the Penn State NLP Lab.
 
 I like taking ideas from a rough prototype to something people actually use. My work spans full-stack development, open-source tools, and LLM research.
 
