@@ -9,7 +9,7 @@ I like taking ideas from a rough prototype to something people actually use. My 
 - 👕 **[WardrobeAI](https://www.wardrobeai.app)** — An AI wardrobe and outfit app used by **4,000+ people** to organize **14,000+ clothing items**.
 - 📝 **[UniversalNotes](https://www.universalnotes.org)** — An open-source browser extension bringing Community Notes-style fact-checking to websites beyond X. [Source ↗](https://github.com/amalsony/universalnotes)
 
-### What I'm exploring
+### What I'm researching at the Penn State NLP Lab
 
 LLM activation steering and evaluation through undergraduate research at **Penn State's NLP Lab**, working with Qwen and Gemma models.
 
